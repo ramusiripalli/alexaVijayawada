@@ -1,1 +1,1 @@
-# alexaVijayawada
+# Skeleton project for Swagger
